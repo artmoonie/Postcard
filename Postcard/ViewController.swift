@@ -3,7 +3,7 @@
 //  Postcard
 //
 //  Created by apple on 14/11/2014.
-//  Copyright (c) 2014 RAM. All rights reserved.
+//  Copyright (c) November 2014 RAM. All rights reserved.
 //
 
 import UIKit
@@ -30,6 +30,7 @@ class ViewController: UIViewController {
 
     
     @IBAction func sendMailButtonPressed(sender: UIButton) {
+        //Code will evaluate when we press the button
         messageLabel.hidden = false
         messageLabel.text = enterMessageTextField.text
         messageLabel.textColor = UIColor.redColor()

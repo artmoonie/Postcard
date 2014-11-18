@@ -3,7 +3,7 @@
 //  Postcard
 //
 //  Created by apple on 14/11/2014.
-//  Copyright (c) 2014 RAM. All rights reserved.
+//  Copyright (c) November 2014 RAM. All rights reserved.
 //
 
 import UIKit
